@@ -1,0 +1,3 @@
+# PAMN
+public class Tiendita{
+}
